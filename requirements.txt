@@ -1,0 +1,15 @@
+# This file lists all the dependencies that are required by the project
+numpy
+dlib
+opencv-python
+scipy
+mediapipe
+opencv-contrib-python
+imutils
+pyclean
+keras
+tensorflow-cpu
+matplotlib
+scikit-learn
+psutil
+flask
